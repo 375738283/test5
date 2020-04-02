@@ -15,9 +15,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  */
 public class SysMngApplication {
 
-	
     public static void main(String[] args) {
         SpringApplication.run(SysMngApplication.class, args);
-       System.out.println("xxxx");
     }
 }
